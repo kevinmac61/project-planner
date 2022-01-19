@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Create New Homepage Banner",
+            "details": "Lorem Ipsum",
+            "complete": false
+        },
+        {
+            "id": 2,
+            "title": "New Marketing Email",
+            "details": "Lorem Ipsum",
+            "complete": false
+        }
+    ]
+}
