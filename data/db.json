@@ -10,7 +10,7 @@
       "id": 2,
       "title": "New Marketing Email",
       "details": "Lorem Ipsum",
-      "complete": false
+      "complete": true
     },
     {
       "title": "Some New Project",
